@@ -7,3 +7,5 @@
   diffusion model 
   
 ## all trained on CelebA dataset
+
+link to my kaggle: https://www.kaggle.com/michabarya
