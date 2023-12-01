@@ -6,4 +6,4 @@
   autoencoder with resnet blocks divided between two gpu    
   diffusion model 
   
-## all trained od CelebA dataset
+## all trained on CelebA dataset
